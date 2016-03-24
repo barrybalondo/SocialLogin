@@ -6,5 +6,5 @@ Goals
 Approach
  - Build different branches for each social media and hopefully merge them for a multi social login 
 
- Results
+Results
  - Success! Was able to implement twitter and facebook. I believe the same approach goes to google+ and linkedIn.
