@@ -2,7 +2,9 @@ Ruby on Rails Social Login
 
 Goals
  - Use OmniAuth to implement login with different social media particularly TWitter, Facebook, Google+ and LinkedIn
- - Use Social login with Devise gem
 
 Approach
- - Build different branches for each social media and hopefully merge them for a multi social login plus Devise
+ - Build different branches for each social media and hopefully merge them for a multi social login 
+
+ Results
+ - Success! Was able to implement twitter and facebook. I believe the same approach goes to google+ and linkedIn.
